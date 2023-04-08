@@ -1,4 +1,6 @@
 # Bike-sharing-analysis
+## instructions
+Download the code and dataset to the same folder, install the required packages, and run the code in order.  
 ## Dataset
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
 instant: record index.  
