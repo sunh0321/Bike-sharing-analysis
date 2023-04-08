@@ -1,11 +1,9 @@
 # Bike-sharing-analysis
 # Dataset
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
-
-instant: record index.
-dteday : date
-
-season : season (1:springer, 2:summer, 3:fall, 4:winter)
+instant: record index.  
+dteday : date  
+season : season (1:springer, 2:summer, 3:fall, 4:winter)  
 
 yr : year (0: 2011, 1:2012)
 
